@@ -5,10 +5,10 @@ html{
 body{
     min-height: 100vh;
     font-family: 'Poppins', sans-serif;
+    background-color: var(--neutral-bg-color);
 }
 
 .header{
-    background-color: red;
     display: flex;
     justify-content: center;
 }
@@ -22,15 +22,18 @@ body{
 .header .text-container h1{
     font-size: 3.6rem;
     font-weight: 200;
+    color: var(--neutral-medium-color);
 }
 
 .header .text-container .h1-bold{
     font-weight: 600;
+    color: var(--neutral-dark-color);
 }
 
 .header .text-container p{
     margin-top: 1.7rem;
     font-size: 1.5rem;
+    font-weight: 200;
 }
 
 .tools-details{
@@ -46,7 +49,9 @@ body{
     max-width: 35rem;
     min-height: 25rem;
     border-radius: 1rem;
-    background-color: lightgrey;
+    color: var(--neutral-medium-color);
+    background-color: var(--neutral-bg-color);
+    box-shadow: 0 0 1.5rem #4b4b4b41;
 }
 
 .tools-details .card h3{
@@ -58,6 +63,7 @@ body{
     font-size: 1.3rem;
     margin-top: 1rem;
     padding: 0 3.5rem;
+    font-weight: 200;
 }
 
 .tools-details .card img{
@@ -65,19 +71,19 @@ body{
 }
 
 .tools-details .card.supervisor{
-    border-top: solid 0.4rem blue;
+    border-top: solid 0.4rem var(--supervisor-border-color);
 }
 
 .tools-details .card.team-builder{
-    border-top: solid 0.4rem red;
+    border-top: solid 0.4rem var(--team-builder-border-color);
 }
 
 .tools-details .card.karma{
-    border-top: solid 0.4rem yellow;
+    border-top: solid 0.4rem var(--karma-border-color);
 }
 
 .tools-details .card.calculator{
-    border-top: solid 0.4rem violet;
+    border-top: solid 0.4rem var(--calculator-border-color);
 }
 
 .tools-details .double-card-container .karma{
