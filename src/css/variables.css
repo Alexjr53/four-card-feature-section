@@ -1,0 +1,9 @@
+:root{
+   --neutral-bg-color:hsl(0, 0%, 98%);
+   --neutral-medium-color:hsl(229, 6%, 66%);
+   --neutral-dark-color:hsl(234, 12%, 34%);
+   --calculator-border-color:hsl(212, 86%, 64%);
+   --karma-border-color:hsl(34, 97%, 64%);
+   --supervisor-border-color:hsl(180, 62%, 55%);
+   --team-builder-border-color:hsl(0, 78%, 62%);
+}
