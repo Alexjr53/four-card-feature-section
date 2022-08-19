@@ -50,7 +50,7 @@ body{
     min-height: 25rem;
     border-radius: 1rem;
     color: var(--neutral-dark-color);
-    background-color: var(--neutral-bg-color);
+    background-color: white;
     box-shadow: 0 0 1.5rem #4b4b4b41;
 }
 
