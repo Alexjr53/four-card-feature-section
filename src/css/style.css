@@ -49,7 +49,7 @@ body{
     max-width: 35rem;
     min-height: 25rem;
     border-radius: 1rem;
-    color: var(--neutral-medium-color);
+    color: var(--neutral-dark-color);
     background-color: var(--neutral-bg-color);
     box-shadow: 0 0 1.5rem #4b4b4b41;
 }
