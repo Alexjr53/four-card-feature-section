@@ -2,4 +2,40 @@
     .tools-details{
         flex-direction: column;
     }
+
+    .header .text-container{
+        margin-top: 6rem;
+        max-width: 33rem;
+    }
+
+    .header .text-container h1{
+        font-size: 2.4rem;
+    }
+
+    .header .text-container p{
+        font-size: 1.6rem;
+    }
+
+    .tools-details{
+        margin: 7rem 0;
+    }
+
+    .tools-details .card{
+        min-width: 25rem;
+        max-width: 30rem;
+        min-height: 22rem;
+    }
+
+    .tools-details .card h3{
+        padding: 2.6rem 0 0 2.4rem;
+    }
+    
+    .tools-details .card p{
+        margin-top: 0.6rem;
+        padding: 0 3rem;
+    }
+
+    .tools-details .card img{
+        margin: 2.8rem 0 0 22rem;
+    }
 }
