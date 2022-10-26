@@ -1,6 +1,6 @@
-# Frontend Mentor - Solução do Four card feature section
+# Desafio Frontend Mentor - Solução do Four card feature section
 
-Esta é uma solução para o [Desafio Four card feature section no Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
+Esta é uma solução para o [Desafio Four card feature section no Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
 
 [![NPM](https://img.shields.io/bower/l/MI)](https://github.com/Alexjr53/four-card-feature-section-master/blob/main/LICENSE)
 
@@ -22,19 +22,19 @@ Esta é uma solução para o [Desafio Four card feature section no Frontend Ment
 
 Os usuários devem ser capazes de:
 
-- Visualize o layout ideal para a página, dependendo do tamanho da tela do dispositivo
+- Criar o layout ideal para a página, dependendo do tamanho da tela do dispositivo
 
 ### Screenshot
 
 #### Desktop
-![produto](src/images/screenshot-desktop.png)
+![produto](src/design/screenshot-desktop.png)
 
 #### Mobile
-![produto](src/images/screenshot-mobile.png)
+![produto](src/design/screenshot-mobile.png)
 
 ### Links
 
-- Solução URL: [Four card feature section - Frontend mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-bEibvEqGZ4)
+- Solução do desafio: [Four card feature section - Frontend mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-bEibvEqGZ4)
 - URL da página: [Four card feature section](https://alexjr53.github.io/four-card-feature-section-master/) 
 
 ## Meu processo

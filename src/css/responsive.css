@@ -26,16 +26,16 @@
         min-height: 22rem;
     }
 
-    .tools-details .card h3{
+    .tools-details .card .card-title{
         padding: 2.6rem 0 0 2.4rem;
     }
     
-    .tools-details .card p{
+    .tools-details .card .card-description{
         margin-top: 0.6rem;
         padding: 0 3rem;
     }
 
-    .tools-details .card img{
+    .tools-details .card .card-image{
         margin: 2.8rem 0 0 22rem;
     }
 }
