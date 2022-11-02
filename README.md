@@ -1,4 +1,4 @@
-# Desafio Frontend Mentor - Solução do Four card feature section
+# Desafio do Frontend Mentor - Solução do Four card feature section
 
 Esta é uma solução para o [Desafio Four card feature section no Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
 
@@ -34,8 +34,9 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solução do desafio: [Four card feature section - Frontend mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-bEibvEqGZ4)
-- URL da página: [Four card feature section](https://alexjr53.github.io/four-card-feature-section-master/) 
+- Solução do desafio no frontend mentor: [Four card feature section - Frontend mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-bEibvEqGZ4)
+- URL da página: [Four card feature section](https://alexjr53.github.io/four-card-feature-section/) 
+- Repositório do projeto no GitHub: [Four card feature section](https://github.com/Alexjr53/four-card-feature-section)
 
 ## Meu processo
 
