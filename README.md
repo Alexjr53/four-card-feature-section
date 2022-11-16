@@ -16,7 +16,7 @@ Esta é uma solução para o [Desafio Four card feature section no Frontend Ment
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
 
-  ## Visão geral
+## Visão geral
 
 ### Desafio
 
